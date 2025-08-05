@@ -2,7 +2,6 @@
 - 👀 I’m interested in Software Engineering
 - 💞️ I’m looking to collaborate on future software engineering projects
 - 📫 How to reach me shahadthy15@gmail.com
-- 😄 Pronouns: she/her
 - ⚡ Fun fact: I like basketball
 
 <!---
