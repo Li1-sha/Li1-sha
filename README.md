@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Shahad<br>Software Engineering Student at UTAS Muscat<br>Passionate about building practical, creative, user-friendly digital solutions<br>Skilled in Python, Java, database design, and modern web/app development<br>Currently exploring AI, networking, and interactive UI design<br>Open to collaboration on innovative projects and open-source contributions
+I'm Shahad<br>🎓 Software Engineering Student at UTAS Muscat<br>💻 Passionate about building practical, creative, user-friendly digital solutions<br>🚀 Skilled in Python, Java, database design, and modern web/app development<br>🌱 Currently exploring AI, networking, and interactive UI design<br>🤝 Open to collaboration on innovative projects and open-source contributions
 
 
 ## 🌐 Socials:
